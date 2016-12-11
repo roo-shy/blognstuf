@@ -1,16 +1,40 @@
-##Personal Blog
+##How to
 
 Personal blog aka portfolio of learning and experimenting with new technologies
 
-###Installation
+###Setup
 
-$ gem install jekyll bundler
-$ jekyll new project
-$ cd project
-$ bundle exec jekyll serve
+--set up jekyll folders and npm init 
 
-###Local preview
+```
+$ jekyll new
+$ npm install
+```
+- bower install bootstrap-sass
 
-http://localhost:4000
+--configure _sass directory
+
+```
+- sass
+   -base 
+   -mixins
+   -variables
+   ```
+  
+--import following in main.scss
+
+```
+@import "../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap";
+@import "../_sass/base";
+@import "../_sass/mixins";
+@import "../_sass/variables";
+```
+
+###Todo
+
+- [ ] change the theme
+- [ ] style
+- [ ] start blogging
+
 
 
