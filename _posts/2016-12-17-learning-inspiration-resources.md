@@ -16,5 +16,7 @@ Cool CSS tricks and games:
 - google fonts: https://typ.io/libraries/google
 - http://blacknegative.com/#!/whoweare/
 - npm sweetalert: http://t4t5.github.io/sweetalert/
--  http://stephaneginier.com/sculptgl/
+- http://stephaneginier.com/sculptgl/
+- http://work.co/grid/
 - cool presentation animation - http://vaalentin.github.io/2015/
+- another cool animated site - http://revelator.com/tour/track
