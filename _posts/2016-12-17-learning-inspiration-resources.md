@@ -20,3 +20,7 @@ Cool CSS tricks and games:
 - http://work.co/grid/
 - cool presentation animation - http://vaalentin.github.io/2015/
 - another cool animated site - http://revelator.com/tour/track
+- $.get https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started
+- https://css-tricks.com/debouncing-throttling-explained-examples/
+- http://todomvc.com/
+
