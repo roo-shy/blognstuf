@@ -26,7 +26,9 @@ $ npm install
 
 ###Start
 
-`jekyll serve`
+```
+$ jekyll serve
+```
 
 ###Todo
 
