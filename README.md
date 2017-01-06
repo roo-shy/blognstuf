@@ -10,8 +10,6 @@ Personal blog aka portfolio of learning and experimenting with new technologies
 $ jekyll new
 $ npm install
 ```
-- bower install bootstrap-sass
-
 --configure _sass directory
 
 ```
@@ -20,19 +18,18 @@ $ npm install
    -mixins
    -variables
    ```
-  
---import following in main.scss
-
-```
 @import "../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap";
 @import "../_sass/base";
 @import "../_sass/mixins";
 @import "../_sass/variables";
 ```
 
+###Start
+
+`jekyll serve`
+
 ###Todo
 
-- [ ] change the theme
 - [ ] style
 - [ ] start blogging
 

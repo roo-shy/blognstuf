@@ -25,7 +25,7 @@ github_username:  roo-shy
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 gems:
   - jekyll-feed
 exclude:
