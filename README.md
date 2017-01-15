@@ -30,10 +30,7 @@ $ npm install
 $ jekyll serve
 ```
 
-###Todo
 
-- [ ] style
-- [ ] start blogging
 
 
 
