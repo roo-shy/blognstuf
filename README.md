@@ -1,7 +1,3 @@
-##How to
-
-Personal blog aka portfolio of learning and experimenting with new technologies
-
 ###Setup
 
 --set up jekyll folders and npm init 
